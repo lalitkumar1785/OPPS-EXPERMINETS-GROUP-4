@@ -1,3 +1,7 @@
+// Develop a program to sort a file consisting of books’ details in the alphabetical order of author 
+// names. 
+// The details of books include book_id, author_name, price, no_of_pages, publisher, 
+// year_of_publishing. 
 #include <iostream>
 #include <fstream>
 #include <sstream>
